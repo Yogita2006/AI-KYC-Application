@@ -1,4 +1,4 @@
-# AI-KYC-Application
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/77c1c69b-28c7-4080-9a7d-2d483ac3d85a" /># AI-KYC-Application
 
 ## Project Overview
 
@@ -88,7 +88,7 @@ Instructions on setting up and running the project locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/aryanraj2713/AI-KYC-Application.git](https://github.com/aryanraj2713/AI-KYC-Application.git)
+    git clone [https://github.com/LabhanshiBhatia/AI-KYC-Application](https://github.com/LabhanshiBhatia/AI-KYC-Application)
     cd AI-KYC-Application
     ```
 2.  **Install dependencies:** (Instructions for Frontend, Backend, and ML services)
