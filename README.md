@@ -88,7 +88,7 @@ Instructions on setting up and running the project locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/aryanraj2713/AI-KYC-Application.git](https://github.com/aryanraj2713/AI-KYC-Application.git)
+    git clone [https://github.com/LabhanshiBhatia/AI-KYC-Application](https://github.com/LabhanshiBhatia/AI-KYC-Application)
     cd AI-KYC-Application
     ```
 2.  **Install dependencies:** (Instructions for Frontend, Backend, and ML services)
